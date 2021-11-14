@@ -1,5 +1,5 @@
 # Healthy Hearts
-This is a simple calculator
+This is a heart rate calculator
 
 <!---
 InfinityGauntlet/InfinityGauntlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
